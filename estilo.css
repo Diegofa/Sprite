@@ -1,0 +1,31 @@
+body
+{	background:url(../imagen/mundo.png) no-repeat top center;
+	font-size: 12px;
+	font-family: cursive;
+	font-weight: bold;
+	 
+
+}
+
+#imagen1, #imagen2
+{
+  width: 63px;
+  height: 56px;
+  border: 2px solid green;
+}
+
+.caminar
+{
+	background-image: url(../imagen/mundo.png);
+    background: url(../imagen/pancho.png) no-repeat top center;
+}
+
+.uno{ background-position: 0 0; width: 64px; height: 65px; } 
+.dos{ background-position: -114px 0; width: 64px; height: 65px; } 
+.tres{ background-position: -228px 0; width: 64px; height: 65px; } 
+.cuatro{ background-position: -342px 0; width: 64px; height: 65px; } 
+.cinco{ background-position: -456px 0; width: 64px; height: 65px; } 
+.seis{ background-position: -570px 0; width: 64px; height: 65px; } 
+.siete{ background-position: -684px 0; width: 64px; height: 65px; } 
+.ocho{ background-position: -798px 0; width: 64px; height: 65px; } 
+.nueve{ background-position: -912px 0; width: 64px; height: 65px; }
